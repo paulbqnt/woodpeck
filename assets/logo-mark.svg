@@ -1,0 +1,9 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <title>Woodpeck++ mark</title>
+  <rect width="120" height="120" rx="24" fill="#0a0a0a"/>
+  <path d="M 50 32 Q 56 18 60 24 Q 64 18 70 32 Q 60 28 50 32 Z" fill="#e63946"/>
+  <path d="M 60 40 Q 38 52 38 80 Q 38 98 60 98 Q 82 98 82 80 Q 82 52 60 40 Z" fill="#fafaf9"/>
+  <circle cx="60" cy="44" r="14" fill="#fafaf9"/>
+  <polygon points="46,44 28,46 46,48" fill="#f4a623"/>
+  <circle cx="56" cy="42" r="2" fill="#0a0a0a"/>
+</svg>
